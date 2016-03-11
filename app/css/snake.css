@@ -1,0 +1,13 @@
+svg{
+	
+	float: left
+}
+
+#scorecardArea{
+	margin: 1%;
+	display: inline-block;
+	width: 20%;
+}
+#scorecardArea ul{
+	list-style: none;
+}
